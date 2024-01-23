@@ -1,1 +1,4 @@
 This the upgraded version of the online workout web application
+Please import the sql file in xampp mysql server before running the program for the login and other db usage
+The study page has the links to add the some pdfs inside it can be changed according to your wished
+I have added the UI Design and the Flow diagram seperatley
